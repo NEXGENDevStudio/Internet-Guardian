@@ -8,19 +8,21 @@ NEXGEN Internet Guardian helps you keep track of your internet connection using 
 
 ### Monitoring
 
-<img width="575" height="566" alt="monitoring-screen png" src="https://github.com/user-attachments/assets/045837e9-fb46-4298-add7-55dc1a29844d" />
+ <img width="711" height="699" alt="1000185257" src="https://github.com/user-attachments/assets/6f0fe3e7-5528-4b38-89a6-91a4ee2f1b01" />
+
 
 The Monitoring screen shows the current connection status, download and upload activity, ping, and local network adapter information.
 
 ### About Internet Guardian
 
-<img width="596" height="616" alt="about-screen png" src="https://github.com/user-attachments/assets/5543d7b4-c003-4107-9729-c7ff4cfc6cfc" />
+  <img width="703" height="744" alt="1000185259" src="https://github.com/user-attachments/assets/f70f1035-9f56-4ee5-b0eb-d5e8a0789852" />
+
 
 The About screen displays the application name and version, links for the GitHub repository, Privacy Policy and License, plus developer and support contact details.
 
 ### Settings
-
-<img width="588" height="423" alt="settings-screen png" src="https://github.com/user-attachments/assets/e6dca6de-9179-478d-b6f9-9f6bfc42ede5" />
+ 
+<img width="703" height="507" alt="1000185258" src="https://github.com/user-attachments/assets/220c3c59-422f-44a4-96df-d09b07ba0ff9" />
 
 
 The Settings screen lets you enable or disable notifications and provides access to the About screen. The note shown in the app explains that disabling Internet Guardian from Windows Startup prevents it from starting automatically when you sign in.
